@@ -1,0 +1,34 @@
+1. git revert
+Sometimes we need to undo the changes that we've made. There are various ways to undo our changes locally or remotely
+ (depends on what we need), but we must carefully use these commands to avoid unwanted deletions.
+
+2. git rm filename
+Command to remove tracked files from the current working tree in Git.This command expects a commit message to explain
+ why the file was deleted.
+3. git mv oldfile newfile
+Command to rename files in Git:
+This command stages the changes, then it expects a commit message.
+4. git commit --amend
+Command to amend the most recent commit in Git. git commit --amend allows you to modify and add changes to the most recent commit.
+5. git log --graph --oneline
+Command to show the commit log as a graph in Git: We can use --graph to get the commit log to show as a graph. Also,
+--oneline will limit commit messages to a single line.
+6. git merge --abort
+Command to abort a conflicting merge in Git. If you want to throw a merge away and start over.
+7. git remote -v
+Command to see remote URLs in Git. You can see all remote repositories for your local repository with this command.
+8. git rebase branch_name_here
+Command to use Git rebase. We can transfer completed work from one branch to another using git rebase.
+9. git config command
+After installing Git, you need to set up your identity:
+- Your name and
+- Your email addres. 
+
+ Git config helps to get and set global options.git config command
+After installing Git, you need to set up your identity:
+- Your name and
+- Your email addres. 
+
+ Git config helps to get and set global options.
+10. git clean
+It will remove the untracked files from the working directory.
