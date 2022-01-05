@@ -1,0 +1,36 @@
+commit 9e95d95a1a81685071075efd6b44355f18052d67
+Author: “14AMAN” <“amannimcet2021@gmail.com”>
+Date:   Thu Jan 6 00:43:27 2022 +0530
+
+    Created file and explained how to resolve conflict
+
+commit 66341bc8c34f86101b7e65eb144fb6a219cf321a
+Merge: 06b96c9 74ea9ef
+Author: “14AMAN” <“amannimcet2021@gmail.com”>
+Date:   Thu Jan 6 00:37:32 2022 +0530
+
+    Merge branch 'OSOC'
+
+commit 06b96c93e7e5d83d414023ef611f2d6f7d0d8dab
+Author: “14AMAN” <“amannimcet2021@gmail.com”>
+Date:   Thu Jan 6 00:36:19 2022 +0530
+
+     To remove the conflict renamed the file
+
+commit a6cafb4279c69568d15a13c5298477bdc72d70e4
+Author: “14AMAN” <“amannimcet2021@gmail.com”>
+Date:   Thu Jan 6 00:20:43 2022 +0530
+
+    added some text to same file in another branch to create conflict
+
+commit 74ea9ef8f0a742cb8bec4955219bbf617b30ebfc
+Author: “14AMAN” <“amannimcet2021@gmail.com”>
+Date:   Thu Jan 6 00:16:12 2022 +0530
+
+    Enter the command with description
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
