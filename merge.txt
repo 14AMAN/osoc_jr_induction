@@ -1,0 +1,2 @@
+The merge conflict occured because the two branches had file of same name.
+So, to resolve this conflict just renamed the file.
